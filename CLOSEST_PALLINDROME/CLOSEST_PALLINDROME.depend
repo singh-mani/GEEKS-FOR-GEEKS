@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536349039 source:f:\codeblocks\projects\geeks_for_geeks\closest_pallindrome\main.cpp
+	<bits/stdc++.h>
+	<string.h>
+
