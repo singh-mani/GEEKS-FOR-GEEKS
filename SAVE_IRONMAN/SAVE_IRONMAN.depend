@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534686860 source:f:\codeblocks\projects\geeks_for_geeks\save_ironman\main.cpp
+	<iostream>
+	<string.h>
+
