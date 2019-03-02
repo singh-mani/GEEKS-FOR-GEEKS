@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535714729 source:f:\codeblocks\projects\geeks_for_geeks\word_boggle\main.cpp
+	<bits/stdc++.h>
+	<string.h>
+

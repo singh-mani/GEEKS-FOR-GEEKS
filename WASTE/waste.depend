@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1539137680 source:f:\codeblocks\projects\geeks_for_geeks\waste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+

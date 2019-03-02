@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534575187 source:f:\codeblocks\projects\geeks_for_geeks\rabin_karp_algo\main.cpp
+	<iostream>
+	<string.h>
+
